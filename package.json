@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "skaryna": "file:../skaryna"
+  },
+  "private": true,
+  "scripts": {
+    "build": "ts-node ./build.tsx"
+  }
+}
